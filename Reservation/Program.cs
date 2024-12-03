@@ -38,15 +38,7 @@ namespace Reservation
             {
                 Console.WriteLine(e.Message);
             }
-
-
-
-
-
             Console.WriteLine("END...");
-
-
-
         }
     }
 }
