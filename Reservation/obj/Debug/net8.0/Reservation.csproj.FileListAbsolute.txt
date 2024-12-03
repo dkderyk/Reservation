@@ -1,0 +1,14 @@
+C:\Users\deryk\source\repos\Reservation\Reservation\bin\Debug\net8.0\Reservation.exe
+C:\Users\deryk\source\repos\Reservation\Reservation\bin\Debug\net8.0\Reservation.deps.json
+C:\Users\deryk\source\repos\Reservation\Reservation\bin\Debug\net8.0\Reservation.runtimeconfig.json
+C:\Users\deryk\source\repos\Reservation\Reservation\bin\Debug\net8.0\Reservation.dll
+C:\Users\deryk\source\repos\Reservation\Reservation\bin\Debug\net8.0\Reservation.pdb
+C:\Users\deryk\source\repos\Reservation\Reservation\obj\Debug\net8.0\Reservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deryk\source\repos\Reservation\Reservation\obj\Debug\net8.0\Reservation.AssemblyInfoInputs.cache
+C:\Users\deryk\source\repos\Reservation\Reservation\obj\Debug\net8.0\Reservation.AssemblyInfo.cs
+C:\Users\deryk\source\repos\Reservation\Reservation\obj\Debug\net8.0\Reservation.csproj.CoreCompileInputs.cache
+C:\Users\deryk\source\repos\Reservation\Reservation\obj\Debug\net8.0\Reservation.dll
+C:\Users\deryk\source\repos\Reservation\Reservation\obj\Debug\net8.0\refint\Reservation.dll
+C:\Users\deryk\source\repos\Reservation\Reservation\obj\Debug\net8.0\Reservation.pdb
+C:\Users\deryk\source\repos\Reservation\Reservation\obj\Debug\net8.0\Reservation.genruntimeconfig.cache
+C:\Users\deryk\source\repos\Reservation\Reservation\obj\Debug\net8.0\ref\Reservation.dll
